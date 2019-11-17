@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhanpenng.github.io</id>
     <title>鲸 × 鹏</title>
-    <updated>2019-11-17T04:02:46.956Z</updated>
+    <updated>2019-11-17T04:18:11.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhanpenng.github.io"/>
     <link rel="self" href="https://zhanpenng.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://zhanpenng.github.io/images/avatar.png</logo>
     <icon>https://zhanpenng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 鲸 × 鹏</rights>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://zhanpenng.github.io/post/test</id>
+        <link href="https://zhanpenng.github.io/post/test">
+        </link>
+        <updated>2019-11-17T04:07:44.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="book_note">book_note</h3>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhanpenng.github.io/post/hello-gridea</id>
