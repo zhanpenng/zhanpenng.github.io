@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhanpenng.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-11-16T08:29:15.706Z</updated>
+    <title>鲸 × 鹏</title>
+    <updated>2019-11-17T02:29:43.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhanpenng.github.io"/>
     <link rel="self" href="https://zhanpenng.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>北冥有鱼，其名为鲲；化而为鸟，其名为鹏。</subtitle>
     <logo>https://zhanpenng.github.io/images/avatar.png</logo>
     <icon>https://zhanpenng.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 鲸 × 鹏</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhanpenng.github.io/post/hello-gridea</id>
