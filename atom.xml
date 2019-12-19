@@ -2,12 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhanpenng.github.io</id>
     <title>鲸 × 鹏</title>
-    <updated>2019-12-19T13:35:17.962Z</updated>
+    <updated>2019-12-19T13:39:18.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhanpenng.github.io"/>
     <link rel="self" href="https://zhanpenng.github.io/atom.xml"/>
-    <subtitle>&lt;strong&gt;北冥有鱼，其名为鲲；&lt;/strong&gt;
-&lt;strong&gt;化而为鸟，其名为鹏。&lt;/strong&gt;</subtitle>
+    <subtitle>&lt;strong&gt;神奇的2020&lt;/strong&gt;</subtitle>
     <logo>https://zhanpenng.github.io/images/avatar.png</logo>
     <icon>https://zhanpenng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 鲸 × 鹏</rights>
